@@ -1,11 +1,8 @@
 # FirstRepository
 
-First change from Github in main branch
+Théo RUIZ
 
-Second change from local in main branch
+First change from local in main branch
 
-Third change from local in main branch
 
-Fourth change from local in main branch
 
-Fourth change from Github in main branch
